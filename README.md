@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi 👋, I'm Mohamed Hadi Lamine Yahiaoui  
+
+## 📜 Certificates
+- [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/6B2KY6VLW3LL)
+- [Google Cybersecurity Professional Badge](https://www.credly.com/badges/865b1967-4770-4fe8-b92a-f2d6bf3df9a7)
+- [Python for Everybody](https://www.coursera.org/account/accomplishments/specialization/PUSURECHT1SG)
+
+## 🛠 Skills
+- Python, Git, GitHub, Bash Shell, Kali Linux
+- Cybersecurity fundamentals
+
+## 📂 Featured Projects
+- [Python Password Generator](https://github.com/hadidou09/Hadidou-Password-Generator.git)
 
 <!--
 **hadidou09/hadidou09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
