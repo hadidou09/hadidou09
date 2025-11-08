@@ -5,6 +5,7 @@
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/6B2KY6VLW3LL)
 - [Google Cybersecurity Professional Badge](https://www.credly.com/badges/865b1967-4770-4fe8-b92a-f2d6bf3df9a7)
 - [Python for Everybody](https://www.coursera.org/account/accomplishments/specialization/PUSURECHT1SG)
+- [EF SET English Certificate (C1 Advanced)](https://cert.efset.org/en/m1aKXo)
 
 ## 🛠 Skills
 - Python, Git, GitHub, Bash Shell, Kali Linux
