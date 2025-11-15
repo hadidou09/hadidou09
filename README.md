@@ -12,7 +12,7 @@
 - Cybersecurity fundamentals
 
 ## 📂 Featured Projects
-- [Python Password Generator](https://github.com/hadidou09/Hadidou-Password-Generator.git)
+- [HPG Password Generator](https://github.com/hadidou09/Hadidou-Password-Generator.git)
 
 
 
