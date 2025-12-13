@@ -7,7 +7,7 @@
 - [Google Cybersecurity Professional Badge](https://www.credly.com/badges/865b1967-4770-4fe8-b92a-f2d6bf3df9a7)
 - [Python for Everybody](https://www.coursera.org/account/accomplishments/specialization/PUSURECHT1SG)
 - [EF SET English Certificate (C1 Advanced)](https://cert.efset.org/en/m1aKXo)
-
+- [TryHackMe Pre-Secuirty Certificate](https://tryhackme.com/certificate/THM-L8SFZIVPYF)
 ## 🛠 Skills
 - Python, Git, GitHub, Bash Shell, Kali Linux
 - Cybersecurity fundamentals
