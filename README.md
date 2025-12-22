@@ -8,12 +8,13 @@
 - [Python for Everybody](https://www.coursera.org/account/accomplishments/specialization/PUSURECHT1SG)
 - [EF SET English Certificate (C1 Advanced)](https://cert.efset.org/en/m1aKXo)
 - [TryHackMe Pre-Secuirty Certificate](https://tryhackme.com/certificate/THM-L8SFZIVPYF)
+- [TryHackMe Cybersecurity 101](https://tryhackme.com/certificate/THM-D3GCBPUVUC)
 ## 🛠 Skills
 - Python, Git, GitHub, Bash Shell, Kali Linux
 - Cybersecurity fundamentals
 
 ## 📂 Featured Projects
-- [HPG Password Generator](https://github.com/hadidou09/Hadidou-Password-Generator.git)
+- [Password-Toolkit-Python](https://github.com/hadidou09/Password-Toolkit-Python)
 
 
 
