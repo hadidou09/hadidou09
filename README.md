@@ -1,5 +1,5 @@
 # Hi 👋, I'm Mohamed Hadi Lamine Yahiaoui  
-- [My Linkedln](https://www.linkedin.com/in/mohamed-h-yahiaoui-021b30375/)
+- [My Linkedln](www.linkedin.com/in/mohamed-hadi-yahiaoui-021b30375)
 - [My TryHackMe Cybersecurity Lab profile](https://tryhackme.com/p/hadidou09)
 
 ## 📜 Certificates
@@ -9,9 +9,11 @@
 - [EF SET English Certificate (C1 Advanced)](https://cert.efset.org/en/m1aKXo)
 - [TryHackMe Pre-Secuirty Certificate](https://tryhackme.com/certificate/THM-L8SFZIVPYF)
 - [TryHackMe Cybersecurity 101](https://tryhackme.com/certificate/THM-D3GCBPUVUC)
+- [TryHackMe Advent of Cyber 2025](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-7R7HONA6MX.pdf)
 ## 🛠 Skills
 - Python, Git, GitHub, Bash Shell, Kali Linux
 - Cybersecurity fundamentals
+- penetration testing.
 
 ## 📂 Featured Projects
 - [Password-Toolkit-Python](https://github.com/hadidou09/Password-Toolkit-Python)
