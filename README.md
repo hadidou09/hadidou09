@@ -10,6 +10,7 @@
 - [TryHackMe Pre-Secuirty Certificate](https://tryhackme.com/certificate/THM-L8SFZIVPYF)
 - [TryHackMe Cybersecurity 101](https://tryhackme.com/certificate/THM-D3GCBPUVUC)
 - [TryHackMe Advent of Cyber 2025](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-7R7HONA6MX.pdf)
+- [TryHackMe Jr Penetration Tester](https://tryhackme.com/certificate/THM-GOPQDNU3R6)
 ## 🛠 Skills
 - Python, Git, GitHub, Bash Shell, Kali Linux
 - Cybersecurity fundamentals
