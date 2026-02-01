@@ -1,6 +1,8 @@
 # Hi 👋, I'm Mohamed Hadi Lamine Yahiaoui  
 - [My Linkedln](www.linkedin.com/in/mohamed-hadi-yahiaoui-021b30375)
-- [My TryHackMe Cybersecurity Lab profile](https://tryhackme.com/p/hadidou09)
+- [My TryHackMe Profile](https://tryhackme.com/p/hadidou09)
+- [My HackTheBox Labs Profile](https://app.hackthebox.com/users/3094312)
+- [My HackTheBox Academy Profile](HTB-F9A5515D8E)
 
 ## 📜 Certificates
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/6B2KY6VLW3LL)
