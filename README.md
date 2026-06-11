@@ -8,7 +8,7 @@
 - [Google Cybersecurity Professional Badge](https://www.credly.com/badges/865b1967-4770-4fe8-b92a-f2d6bf3df9a7)
 - [Python for Everybody](https://www.coursera.org/account/accomplishments/specialization/PUSURECHT1SG)
 - [EF SET English Certificate (C1 Advanced)](https://cert.efset.org/en/m1aKXo)
-- [TryHackMe Pre-Secuirty Certificate](https://tryhackme.com/certificate/THM-L8SFZIVPYF)
+- [TryHackMe Pre-Secuirty Certificate]((https://tryhackme.com/certificate/THM-CBJEAX0WYR))
 - [TryHackMe Cybersecurity 101](https://tryhackme.com/certificate/THM-D3GCBPUVUC)
 - [TryHackMe Advent of Cyber 2025](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-7R7HONA6MX.pdf)
 - [TryHackMe Jr Penetration Tester(Legacy)](https://tryhackme.com/certificate/THM-GOPQDNU3R6)
